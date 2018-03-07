@@ -1,0 +1,15 @@
+import java.io.*;
+import java.util.*;
+class posno
+{
+public static void main(String Args[])
+{
+Scanner oo=new Scanner(System.in);
+int num=oo.nextInt();
+String out="";
+if(num==0){out="Zero";}
+if(num>0){out="Positive";}
+if(num<0){out="Negative";}
+System.out.println()
+}
+}
